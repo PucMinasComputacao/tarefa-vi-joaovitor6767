@@ -9,10 +9,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Vitor Freitas Fernandes
+- Matricula: 914121
+- Proposta de projeto escolhida: A proposta do projeto é explicar sobre a minha cidade betim e a sua hsitoria atraves do site que estou desenvolvendo com HTML e CSS. Acrescentando para Bootstrap a tarefa de hoje.
+- Breve descrição sobre seu projeto: Este projeto tem como objetivo apresentar a história da cidade de Betim, localizada no estado de Minas Gerais, destacando sua origem, desenvolvimento e importância econômica e cultural ao longo dos anos. Além disso, será desenvolvido um site informativo que reunirá conteúdos como textos, imagens e curiosidades sobre o município, proporcionando uma navegação simples e acessível aos usuários. O site busca valorizar a identidade local e facilitar o acesso ao conhecimento histórico de Betim de forma moderna e interativa.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 

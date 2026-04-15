@@ -20,6 +20,6 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-![texto]()
+![texto](https://github.com/PucMinasComputacao/tarefa-vi-joaovitor6767/blob/main/sitemobilecombootstrap.jpg?raw=true)
 
 
